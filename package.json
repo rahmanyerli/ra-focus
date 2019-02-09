@@ -1,0 +1,49 @@
+{
+	"name": "ra-focus",
+	"displayName": "Ra Focus",
+	"description": "Here is the best theme for your eye care!",
+	"version": "1.1.0",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Focus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ra-focus.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-focus"
+	},
+	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#202020",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark theme",
+		"vscode, dark theme",
+		"ra",
+		"ra focus theme",
+		"ra focus",
+		"rafocus",
+		"ra-focus",
+		"focus"
+	]
+}
