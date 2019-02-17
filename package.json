@@ -2,7 +2,7 @@
 	"name": "ra-focus",
 	"displayName": "Ra Focus",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
@@ -29,7 +29,7 @@
 	},
 	"icon": "images/ra.png",
 	"galleryBanner": {
-		"color": "#202020",
+		"color": "#222222",
 		"theme": "dark"
 	},
 	"keywords": [
