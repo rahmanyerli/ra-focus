@@ -8,6 +8,4 @@
 
 ![Screen Shot-III](./images/code.png)
 
----
-
 **Enjoy!**
