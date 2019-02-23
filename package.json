@@ -2,7 +2,7 @@
 	"name": "ra-focus",
 	"displayName": "Ra Focus",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.2.0",
+	"version": "2.0.0",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
